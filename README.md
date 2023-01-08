@@ -8,7 +8,6 @@
  <div>
  <a style="list-style: none;" "href="https://github.com/dev-danielJunio">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-danielJunio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-danielJunio&layout=compact&theme=dracula&hide_border=true">
  </a>
  </div>
  
