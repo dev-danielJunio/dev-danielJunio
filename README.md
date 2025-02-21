@@ -4,10 +4,10 @@
 
   <img align="right" alt="Jucs-pic" height="110" width="400" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1128839315410137238/1181719284242718761/juco-hello-more.gif?ex=658214d8&is=656f9fd8&hm=0ffc10b0c2591a5268e4d247ca50b469977372923f86c2b24c8ffb0bd2e8d37c&">
 
-  - 🔭 Estudante ciências da computação ...
-  - 🌱 Buscando aprimorar cada vez mais meus conhecimentos ...
-  - 👯 Procuro sempre resolver problemas da melhor forma ...
-  - ⚡ "O conhecimento é limitado, enquanto a imaginação abraça o mundo inteiro, estimulando o progresso, e dando origem à evolução.” -Einstein ...
+🔍 Apaixonado por resolver problemas complexos com soluções eficientes e escaláveis.
+💡 Sempre em busca de inovação e aprimoramento contínuo.
+🤝 Colaborando para criar soluções que impulsionam negócios e melhoram a experiência do usuário.
+⚡ "O conhecimento é finito, mas a imaginação impulsiona o progresso." – Einstein
 </div>
 
 ## GitHub Stats:
